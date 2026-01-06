@@ -158,7 +158,7 @@ After cloning this repository, please follow SaProt([SaProt](https://github.com/
 
 ## Pipeline
 
-![pipeline](../assets/WDPpipeline.png)
+![pipeline](./assets/WDPpipeline.png)
 
 1. Obtain structural embeddings with SaProt ([SaProt](https://github.com/westlake-repl/SaProt)):
 
